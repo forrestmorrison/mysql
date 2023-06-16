@@ -1,0 +1,22 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "MySQL practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forrestmorrison/mysql.git"
+  },
+  "keywords": [
+    "MySQL"
+  ],
+  "author": "Forrest Morrison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forrestmorrison/mysql/issues"
+  },
+  "homepage": "https://github.com/forrestmorrison/mysql#readme"
+}
